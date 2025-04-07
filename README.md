@@ -2,6 +2,7 @@
 
 # Build Instructions
 Make sure that you have python3 installed on your system.
+
 Clone the repository onto your system, then navigate to the project directory in Bash.
 
 Once there, enter the following command:
