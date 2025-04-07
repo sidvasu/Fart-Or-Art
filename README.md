@@ -9,3 +9,5 @@ Once there, enter the following command:
 ```./run.sh```
 
 After it finishes installing dependencies and running the app, click on the link to 127.0.0.1:5000 displayed in your terminal.
+
+To stop running the app, enter CTRL+C in your terminal.
