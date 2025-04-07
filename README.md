@@ -9,6 +9,8 @@ Fart or Art uses a machine learning model to classify audio between "fart" and "
 
 Follow the build instructions below and upload a short .mp3 or .wav audio clip of a trumpet or a fart.
 
+Can't find sound effects? Try this site: https://pixabay.com/
+
 # Build Instructions
 Make sure that you have python3 installed on your system.
 
@@ -20,3 +22,7 @@ Once there, enter the following command:
 After it finishes installing dependencies and running the app, click on the link to 127.0.0.1:5000 displayed in your terminal.
 
 To stop running the app, enter CTRL+C in your terminal.
+
+# Datasets
+https://www.kaggle.com/datasets/alecledoux/fart-recordings-dataset
+https://www.kaggle.com/datasets/abdulvahap/music-instrunment-sounds-for-classification
